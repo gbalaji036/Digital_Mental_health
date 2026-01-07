@@ -1,0 +1,8 @@
+{
+  "name": "Healer: Intelligent Student Wellness Ecosystem",
+  "description": "A world-class digital mental health and psychological support system for students, utilizing multi-modal generative intelligence and geospatial grounding.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
